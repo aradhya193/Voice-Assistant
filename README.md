@@ -417,4 +417,4 @@ Access these metrics through the web interface or programmatically via the UX ma
 
 ---
 
-**Built with ❤️ for the future of voice interaction**
+**Built with ❤️ **
