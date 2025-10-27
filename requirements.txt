@@ -1,0 +1,23 @@
+# Core dependencies
+speechrecognition==3.10.0
+pyttsx3==2.90
+requests==2.31.0
+wikipedia==1.4.0
+python-dotenv==1.0.0
+
+# Web framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Enhanced features - using requests instead of aiohttp for Windows compatibility
+# aiohttp==3.8.6  # Commented out due to Windows compilation issues
+
+# Audio processing - using alternative or pre-compiled version
+# pyaudio==0.2.11  # Commented out due to Windows compilation issues
+
+# Security and encryption
+cryptography==41.0.7
+
+# Additional utilities
+# Note: sqlite3, uuid, datetime, threading, queue, json, os, re, time, 
+# smtplib, subprocess, logging, dataclasses, enum, typing are built into Python

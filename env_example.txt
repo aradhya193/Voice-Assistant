@@ -1,0 +1,26 @@
+# Voice Assistant Configuration
+
+# Assistant Settings
+ASSISTANT_NAME=Siri
+WAKE_WORD=hey siri
+WAKE_MODE_ENABLED=true
+TEXT_FALLBACK_ENABLED=true
+
+# Email Configuration
+SENDER_EMAIL=your-email@gmail.com
+SENDER_APP_PASSWORD=your-app-password
+
+# API Keys
+OPENWEATHER_API_KEY=your-openweather-api-key
+NEWS_API_KEY=your-news-api-key
+SMART_HOME_API_KEY=your-smart-home-api-key
+
+# Database
+DATABASE_PATH=assistant_data.db
+
+# Contacts (JSON format)
+CONTACTS_JSON={"john": "john@example.com", "jane": "jane@example.com"}
+
+# Security Settings
+ENCRYPTION_KEY=your-encryption-key
+SESSION_SECRET=your-session-secret
