@@ -30,6 +30,9 @@ assistant.log
 .DS_Store
 Thumbs.db
 
+# CSS files and folders (if you want to exclude them)
+web_interface/css/
+
 # Temporary files
 *.tmp
 *.temp
